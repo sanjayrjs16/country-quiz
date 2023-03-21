@@ -2,7 +2,7 @@
 
 git clone https://github.com/sanjayrjs16/country-quiz.git
 
-cd quiz-app
+cd country-quiz
 
 ```
 npm install
